@@ -1,5 +1,5 @@
 ---
-title: Shiqing Liu 刘师晴
+title: Shiqing Liu
 role: PhD Student
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
