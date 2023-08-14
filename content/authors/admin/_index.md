@@ -41,7 +41,7 @@ education:
     - course: M.Sc. in Control Science and Engineering
       institution: Beijing Institute of Technology, China
       year: 2020
-    - course: B.Sc. in Science in Automation
+    - course: B.Sc. in Automation
       institution: Beijing Institute of Technology, China
       year: 2017
 superuser: true
