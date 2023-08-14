@@ -35,15 +35,15 @@ organizations:
     url: https://www.uni-bielefeld.de/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD candidate in Computer Science
+      institution: Bielefeld University
+      year: ""
+    - course: MSc in Control Science and Engineering
+      institution: Beijing Institute of Technology
+      year: 2020
+    - course: BSc in Science in Automation
+      institution: Beijing Institute of Technology
+      year: 2017
 superuser: true
 status:
   icon: ☕️
