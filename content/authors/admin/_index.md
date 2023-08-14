@@ -36,13 +36,13 @@ organizations:
 education:
   courses:
     - course: PhD candidate in Computer Science
-      institution: Bielefeld University
+      institution: Bielefeld University, Germany
       year: ""
     - course: M.Sc. in Control Science and Engineering
-      institution: Beijing Institute of Technology
+      institution: Beijing Institute of Technology, China
       year: 2020
     - course: B.Sc. in Science in Automation
-      institution: Beijing Institute of Technology
+      institution: Beijing Institute of Technology, China
       year: 2017
 superuser: true
 status:
