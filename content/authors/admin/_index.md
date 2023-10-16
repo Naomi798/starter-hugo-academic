@@ -52,6 +52,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shiqing Liu is currently a Ph.D. student, supervised by Prof. Dr.-Ing. Yaochu Jin, in Nature Inspired Computing and Engineering (NICE) group, faculty of technology, Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology, Beijing, China in 2017 and 2020 respectively. Her current research interests include neural combinatorial optimization, graph neural networks and federated learning. She is a graduate student member of IEEE.
 {style="text-align: justify;"}
