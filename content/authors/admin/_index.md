@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: shiqing.liu@uni-bielefeld.de
+    link: mailto:shiqing.liu@uni-bielefeld.de
     display:
       header: false
   - icon: graduation-cap
