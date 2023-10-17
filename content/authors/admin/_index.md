@@ -32,7 +32,7 @@ social:
     link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/ShiqingLiu_CV_October2023.pdf
 organizations:
   - name: Bielefeld University
     url: https://www.uni-bielefeld.de/
