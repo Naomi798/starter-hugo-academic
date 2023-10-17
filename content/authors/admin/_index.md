@@ -2,8 +2,8 @@
 title: Shiqing Liu
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include neural combinatorial optimization, graph
+  neural networks, and federated learning.
 interests:
   - Neural Combinatorial Optimization
   - Graph Neural Networks
@@ -11,19 +11,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: shiqing.liu@uni-bielefeld.de
+    display:
+      header: false
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=8ERYxPMAAAAJ&hl=en
   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    icon_pack: fas
+    link: https://twitter.com/ShiqingLiu1995
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Shiqing-Liu/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -50,7 +52,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: shiqing.liu@uni-bielefeld.de
 ---
-Shiqing Liu is currently a Ph.D. student, supervised by Prof. Dr.-Ing. Yaochu Jin, in Nature Inspired Computing and Engineering (NICE) group, faculty of technology, Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology, Beijing, China in 2017 and 2020 respectively. Her current research interests include neural combinatorial optimization, graph neural networks and federated learning. She is a graduate student member of IEEE.
+Shiqing Liu is currently a Ph.D. student, supervised by Prof. Dr.-Ing. Ulrich Rückert, in the faculty of technology at Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology, Beijing, China in 2017 and 2020 respectively. Her research interests include neural combinatorial optimization, graph neural networks and federated learning. She is currently a graduate student member of IEEE.
 {style="text-align: justify;"}
