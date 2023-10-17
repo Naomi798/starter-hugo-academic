@@ -211,13 +211,12 @@ sections:
       text: |-
         Welcome to contact me by sending a message:
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      # email: test@example.org
+      # phone: 888 888 88 88
+      # appointment_url: 'https://calendly.com'
       address:
         street: Universitätsstraße 25
         city: Bielefeld
-        region: North Rhine-Westphalia
         postcode: '33615'
         country: Germany
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -247,6 +246,10 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
+      # Coordinates to display a map - set your map provider in `params.yaml`
+      coordinates:
+        latitude: '52.0367'
+        longitude: '8.4952'
     design:
-      columns: '2'
+      columns: '1'
 ---
