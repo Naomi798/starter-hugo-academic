@@ -8,6 +8,7 @@ interests:
   - Neural Combinatorial Optimization
   - Graph Neural Networks
   - Federated Learning
+  - Neural Architecture Search
 social:
   - icon: envelope
     icon_pack: fas
@@ -49,9 +50,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Liu
 highlight_name: true
-first_name: Alice
+first_name: Shiqing
 email: shiqing.liu@uni-bielefeld.de
 ---
 Shiqing Liu is currently a Ph.D. student, supervised by Prof. Dr.-Ing. Ulrich Rückert, in the faculty of technology at Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology, Beijing, China in 2017 and 2020 respectively. Her research interests include neural combinatorial optimization, graph neural networks and federated learning. She is currently a graduate student member of IEEE.
