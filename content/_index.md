@@ -251,5 +251,5 @@ sections:
         latitude: '52.0367'
         longitude: '8.4952'
     design:
-      columns: '1'
+      columns: '2'
 ---
