@@ -15,8 +15,8 @@ social:
     link: mailto:shiqing.liu@uni-bielefeld.de
     display:
       header: false
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=8ERYxPMAAAAJ&hl=en
   - icon: twitter
     icon_pack: fab
