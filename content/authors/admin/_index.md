@@ -27,12 +27,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Shiqing-Liu/
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: uploads/ShiqingLiu_CV_October2023.pdf
+    link: uploads/resume.pdf
 organizations:
   - name: Bielefeld University
     url: https://www.uni-bielefeld.de/
