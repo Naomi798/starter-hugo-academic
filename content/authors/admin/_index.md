@@ -18,7 +18,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=8ERYxPMAAAAJ&hl=en
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://twitter.com/ShiqingLiu1995
     label: Follow me on Twitter
     display:
