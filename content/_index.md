@@ -245,7 +245,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
       # Coordinates to display a map - set your map provider in `params.yaml`
       coordinates:
         latitude: '52.0367'
