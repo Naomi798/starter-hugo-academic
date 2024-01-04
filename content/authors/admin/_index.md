@@ -27,9 +27,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Shiqing-Liu/
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -55,5 +52,5 @@ highlight_name: true
 first_name: Shiqing
 email: shiqing.liu@uni-bielefeld.de
 ---
-Shiqing Liu is currently a Ph.D. student, supervised by Prof. Dr.-Ing. Ulrich Rückert, in the faculty of technology at Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology, Beijing, China in 2017 and 2020 respectively. Her research interests include neural combinatorial optimization, graph neural networks and federated learning. She is currently a graduate student member of IEEE.
+Shiqing Liu is currently a Ph.D. student, supervised by Prof. Dr.-Ing. Yaochu Jin and Prof. Dr.-Ing. Ulrich Rückert, in the faculty of technology at Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology, Beijing, China in 2017 and 2020 respectively. Her research interests include neural combinatorial optimization, graph neural networks and federated learning. She is currently a graduate student member of IEEE.
 {style="text-align: justify;"}
